@@ -32,11 +32,11 @@ pip install XXX
 
 2. 运行app, 然后点击命令行中的地址
 
-   ![启动](E:\Flask_spider\img-storage\image-20200720154016179.png)
+   ![启动](https://raw.githubusercontent.com/hunter-lee1/Picture_bed/img/20200720165017.png)
 
    
 
-   ![image-20200720154157803](E:\Flask_spider\img-storage\image-20200720154157803.png)
+   ![image-20200720154157803](https://raw.githubusercontent.com/hunter-lee1/Picture_bed/img/20200720165439.png)
 
    ## 实现效果
 
