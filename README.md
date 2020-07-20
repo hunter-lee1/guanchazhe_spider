@@ -42,14 +42,14 @@ pip install XXX
 
    1. 首页
 
-   ![首页]([https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/%E9%A6%96%E9%A1%B5.gif](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/首页.gif))
+   ![首页](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/index.gif)
 
-   2. 新闻页 ![新闻页](E:\Flask_spider\img-storage\新闻页.gif)
+   2. 新闻页 ![新闻页](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/news.gif)
 
-   3. 词频可视化![词频可视化页](E:\Flask_spider\img-storage\词频可视化页.gif)
+   3. 词频可视化![词频可视化页](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/words_weights.gif)
 
-   4. 词云![词云](E:\Flask_spider\img-storage\词云.gif)
+   4. 词云![词云](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/word_cloud.gif)
 
-   5. 搜索![搜索](E:\Flask_spider\img-storage\搜索.gif)
+   5. 搜索![搜索](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/search.gif)
 
       
