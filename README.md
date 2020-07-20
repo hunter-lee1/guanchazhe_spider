@@ -36,13 +36,13 @@ pip install XXX
 
    
 
-   ![image-20200720154157803](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/image-20200720154016179.png)
+   ![image-20200720154157803](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/image-20200720154157803.png)
 
    ## 实现效果
 
    1. 首页
 
-   ![首页](E:\Flask_spider\img-storage\首页.gif)
+   ![首页]([https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/%E9%A6%96%E9%A1%B5.gif](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/首页.gif))
 
    2. 新闻页 ![新闻页](E:\Flask_spider\img-storage\新闻页.gif)
 
