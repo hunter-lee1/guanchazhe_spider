@@ -6,7 +6,7 @@ HOST = '127.0.0.1'
 USER = 'root'
 PASSWORD = 'shujuku'
 PORT = 3306
-DATABASE = 'news_with_keyword'
+DATABASE = 'guanchazhe_spider'
 CHAREST = 'utf8'
 
 

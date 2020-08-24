@@ -22,7 +22,7 @@ class MyThread(threading.Thread):
         self.urls = []
 
         # 连接Mysql数据库
-        self.cnn = pymysql.connect(host='127.0.0.1', user='root', password='shujuku', port=3306, database='news_with_keyword',
+        self.cnn = pymysql.connect(host='127.0.0.1', user='root', password='shujuku', port=3306, database='guanchazhe_spider',
                                    charset='utf8')
         self.cursor = self.cnn.cursor()
         self.sql = 'insert into guanchazhe(title, author, publish_time, content, url, key_word) values(%s, %s, %s, %s, %s, %s)'
@@ -81,7 +81,7 @@ class MyThread(threading.Thread):
         self.cnn.commit()
 
     def check_url(self, url):
-        # 查看数据库中是否存在当前爬取的url，如果存在则放弃爬取
+        # 查看数据库中是否存在当前爬取的url，果存在则放弃爬取
         if url in self.urls:
             print(f'{url}已存在')
             return False
