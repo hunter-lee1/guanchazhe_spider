@@ -47,9 +47,7 @@ pip install XXX
    ![image-20200720154157803](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/image-20200720154157803.png)
 
    ## 实现效果
-   
-   这里有一丢个人信息，突然发现，就把这些动图先删除了喔！
-
+  
    1. 词频可视化![词频可视化页](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/words_weights.gif)
 
    2. 词云![词云](https://github.com/hunter-lee1/guanchazhe_spider/blob/master/img-storage/word_cloud.gif)
